@@ -1,3 +1,4 @@
+import os
 class WriteWordCountsMixin:
     def write_word_counts(self):
         """Write word counts to a TSV file in the output folder."""
