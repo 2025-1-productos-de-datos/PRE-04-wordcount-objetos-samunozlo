@@ -1,3 +1,4 @@
+#recordar importar siempre las librerias necesarias
 import os
 class WriteWordCountsMixin:
     def write_word_counts(self):
